@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LMS",
+            "request": "launch",
+            "mainClass": "lms.LMS",
+            "projectName": "LMS"
+        },
+        {
+            "type": "java",
+            "name": "Debug LMS",
+            "request": "launch",
+            "mainClass": "lms.LMS",
+            "projectName": "LMS"
+        }
+    ]
+} 
